@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ans Imran</h1>
-<h3 align="center">A passionate Physicist & Machine Learning Engineer from Paris, France.</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Paris, France.</h3>
 
-- 🌱 I’m currently learning **pytorch, huggingface**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnsImran](https://github.com/AnsImran)
 
