@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnsImran](https://github.com/AnsImran)
 
-- 📝 I regularly write articles on [m-ans-imran.blogspot.com/](m-ans-imran.blogspot.com/)
+- 📝 I regularly write articles on [m-ans-imran.blogspot.com](m-ans-imran.blogspot.com)
 
 - 📫 How to reach me **ansimran@protonmail.com**
 
