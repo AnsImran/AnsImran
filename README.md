@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ans Imran</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Paris, France.</h3>
+<h3 align="center">A Full Stack Engineer AI Engineer from Paris, France.</h3>
 
 
 - 👨‍💻 All of my projects are available at [github.com/AnsImran](https://github.com/AnsImran)
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ansimran@protonmail.com**
 
-- ⚡ Fun fact **I am also a physicist!**
+- ⚡ Fun fact **I am also a physicist/material-scientist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
